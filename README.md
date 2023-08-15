@@ -1,8 +1,11 @@
 ### Mrekyle
 
-Head Chef | Aspiring Full Stack Developer Student | HTML | CSS | Java Script |  Python | React | MySql | Git | GitHub | AWS | Heroku | Bootstrap | Seeking Junior Developer Role
+Currently enrolled at Code Institute's Full Stack Developer Program. Looking to change careers and break into the web development world. I am currently seeking my first Junior Developer Role
+
+---
 
 My Development Stack:\
+\
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,6 +19,23 @@ My Development Stack:\
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+My Future Development:\
+
+---
+
+My Current Project:\
+
+Code Institute Project 4 - Full Stack Development 
+
+---
+
+My Future Projects:\
+
+Code Institute Project 5 - specialization 
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
