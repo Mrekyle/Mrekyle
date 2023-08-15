@@ -21,17 +21,17 @@ My Development Stack:\
 
 ---
 
-My Future Development:\
+My Future Development:
 
 ---
 
-My Current Project:\
+My Current Project:
 
 Code Institute Project 4 - Full Stack Development 
 
 ---
 
-My Future Projects:\
+My Future Projects:
 
 Code Institute Project 5 - specialization 
 
