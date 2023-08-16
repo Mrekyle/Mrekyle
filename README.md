@@ -1,6 +1,8 @@
 ### Mrekyle
 
-Currently enrolled at Code Institute's Full Stack Developer Program. Looking to change careers and break into the web development world. I am currently seeking my first Junior Developer Role
+Currently an enrolled student on the Code Institute Full Stack Developer Program. Which has allows me to gain a particularly strong set of  Front and Back-End skills. Proficient with Python, SQL, HTML, CSS and JavaScript.
+
+Currently seeking a new opportunity within the Web Development sector, with my first role as a Junior Front End Developer or a Junior Full Stack Developer. Where I can showcase my existing skills and progress my current skills further. 
 
 ---
 
