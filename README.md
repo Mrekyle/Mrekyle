@@ -45,22 +45,22 @@ My Future Projects:
 
 Portfolio:
 
-HTML | CSS | JAVASCRIPT | REACT | BOOTSTRAP
+HTML | CSS | JAVASCRIPT | REACT | BOOTSTRAP  
 Personal portfolio/resume website that showcases my skills and live projects
 
 Travel Ecommerce: 
 
-HTML | CSS | Javascript | Django | Mysql | Bootstrap
+HTML | CSS | Javascript | Django | Mysql | Bootstrap  
 A travel blog that sells travel esentials and travel e-books
 
 First Class Pass:
 
-HTML | CSS | Javascript
+HTML | CSS | Javascript  
 Continuing the project from Code Institute and building an integrated booking and lesson management system. Book, Learn, Cancel, Make Payments, Driver Profiles, Student Profiles 
 
 Kitchen Management Application:
 
-HTML | CSS | Javascript | Bootstrap | Mysql
+HTML | CSS | Javascript | Bootstrap | Mysql  
 A fully self contained Kitchen Management Application with a focus on abiding by all kitchen safety laws and regulations, keeping track of stock, staff scheduling, GP Calculations
 
 Edge Clothing
