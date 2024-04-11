@@ -1,8 +1,8 @@
 ### Mrekyle
 
-Currently an enrolled student on the Code Institute Full Stack Developer Program. Which has allows me to gain a particularly strong set of  Front and Back-End skills. Proficient with Python, SQL, HTML, CSS and JavaScript.
+Graduate of the Code Institute Full Stack Developer program. Which has allows me to gain a particularly strong set of Front and Back-End skills. Proficient with Python, SQL, HTML, CSS and JavaScript.
 
-Currently seeking a new opportunity within the Web Development sector, with my first role as a Junior Front End Developer or a Junior Full Stack Developer. Where I can showcase my existing skills and progress my current skills further. 
+Currently seeking a new opportunity within the Web Development sector, with a role as a Junior Front End Developer or a Junior Full Stack Developer. Where I can showcase my existing skills and progress my current skills further. 
 
 ---
 
@@ -37,7 +37,9 @@ My Future Development:
 
 My Current Project:
 
-Code Institute Project 5 - Ecomerce Specialization 
+Driving School App
+
+Utalising the django framework to build a complete and secure driving school management system.
 
 ---
 
@@ -52,11 +54,6 @@ Travel Ecommerce:
 
 HTML | CSS | Javascript | Django | Mysql | Bootstrap  
 A travel blog that sells travel esentials and travel e-books
-
-First Class Pass:
-
-HTML | CSS | Javascript  
-Continuing the project from Code Institute and building an integrated booking and lesson management system. Book, Learn, Cancel, Make Payments, Driver Profiles, Student Profiles 
 
 Kitchen Management Application:
 
