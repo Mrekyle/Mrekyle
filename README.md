@@ -1,6 +1,6 @@
 ### Mrekyle
 
-Graduate of the Code Institute Full Stack Developer program. Which has allows me to gain a particularly strong set of Front and Back-End skills. Proficient with Python, SQL, HTML, CSS and JavaScript.
+Full Stack Web Developer. A Graduate of the Code Institute Full Stack Developer program. Which has allowed me to gain a particularly strong set of Front and Back-End skills. Proficient with Python, SQL, HTML, CSS, PhP and JavaScript.
 
 Currently seeking a new opportunity within the Web Development sector, with a role as a Junior Front End Developer or a Junior Full Stack Developer. Where I can showcase my existing skills and progress my current skills further. 
 
@@ -45,7 +45,7 @@ My Future Projects:
 
 Portfolio:
 
-HTML | CSS | JAVASCRIPT | REACT | BOOTSTRAP  
+HTML | CSS | JAVASCRIPT | DJANGO | BOOTSTRAP  
 Personal portfolio/resume website that showcases my skills and live projects
 
 Travel Ecommerce: 
