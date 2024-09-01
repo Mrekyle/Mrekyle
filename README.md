@@ -1,8 +1,6 @@
 ### Mrekyle
 
-Full Stack Web Developer. A Graduate of the Code Institute Full Stack Developer program. Which has allowed me to gain a particularly strong set of Front and Back-End skills. Proficient with Python, SQL, HTML, CSS, PhP and JavaScript.
-
-Currently seeking a new opportunity within the Web Development sector, with a role as a Junior Front End Developer or a Junior Full Stack Developer. Where I can showcase my existing skills and progress my current skills further. 
+Jumior Full Stack Web Developer at Lapsafe, providing smart locker solutions to multiple different sectors. 
 
 ---
 
@@ -22,36 +20,7 @@ My Development Stack:
 
 ---
 
-My Future Development:
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
----
-
-My Current Project:
-
-Driving School App
-
-Utalising the django framework to build a complete and secure driving school management system.
-
----
-
-My Future Projects:
-
-Portfolio:
-
-HTML | CSS | JAVASCRIPT | DJANGO | BOOTSTRAP  
-Personal portfolio/resume website that showcases my skills and live projects
-
-Travel Ecommerce: 
-
-HTML | CSS | Javascript | Django | Mysql | Bootstrap  
-A travel blog that sells travel esentials and travel e-books
+My Future Projects: 
 
 Kitchen Management Application:
 
