@@ -1,6 +1,6 @@
 ### Mrekyle
 
-Jumior Full Stack Web Developer at Lapsafe, providing smart locker solutions to multiple different sectors. 
+Junior Full Stack Web Developer at Lapsafe, providing smart locker solutions to multiple different sectors. 
 
 ---
 
