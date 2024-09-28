@@ -14,24 +14,9 @@ My Development Stack:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Laravel](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
-
-My Future Projects: 
-
-Kitchen Management Application:
-
-HTML | CSS | Javascript | Bootstrap | Mysql  
-A fully self contained Kitchen Management Application with a focus on abiding by all kitchen safety laws and regulations, keeping track of stock, staff scheduling, GP Calculations
-
-Edge Clothing
-
-HTML | CSS| JS| React | Firebase | Woocommerce 
-A fully self contained ecommerce store. Allowing users to create accounts, purchase clothing, create favorites, allowing  vendors to sell on the platform by inputting there lines onto the site
-
-
----
-
